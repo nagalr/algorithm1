@@ -1,7 +1,5 @@
 # Implementation of Data Structures and Algorithms with Python
 
-## Overview - 
-
 ### Data Structures - 
 1. Arrays
 2. Graphs
