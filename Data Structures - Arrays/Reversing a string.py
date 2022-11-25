@@ -4,7 +4,7 @@ def reverse(stri):
     mylist.append(stri[i])
   return ''.join(mylist)
 
-x=reverse('I am theja')
+x=reverse('I am thejaaa')
 print(x)  
 
 # or just stri[::-1]
